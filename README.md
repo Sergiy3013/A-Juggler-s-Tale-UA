@@ -2,7 +2,7 @@
 Українізатор до гри A Juggler's Tale. Машинний переклад
 
 Переклад не ідеальний та має недоліки, але ви можете спробуавти це якщо хочете.
-Завнтажте архів останнього релізу [на сторінці релізів]([https://example.com/](https://github.com/Sergiy3013/A-Juggler-s-Tale-UA-/releases)) та розпакуйте його в папку гри.
+Завнтажте архів останнього релізу [на сторінці релізів](https://github.com/Sergiy3013/A-Juggler-s-Tale-UA-/releases) та розпакуйте його в папку гри.
 
 ![image](https://github.com/user-attachments/assets/83e24a98-844e-434f-a7fa-2e2229641715)
 ![image](https://github.com/user-attachments/assets/6361201c-3cad-4518-b8a4-6a91710fe95c)
